@@ -1,0 +1,5 @@
+# Data & uploads - ne pas versionner
+data/etudiants.txt
+uploads/
+gestion_etudiants/data/etudiants.txt
+gestion_etudiants/uploads/
